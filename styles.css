@@ -1,0 +1,81 @@
+head{
+	color: black
+	font-size: 72px;
+	font-weight: bold;
+}
+body{
+	font-family:'Mali', sans-serif;
+}
+#banner {
+	text-align: center;
+	background-image: url("linos_apliados.jpg");
+	background-size: cover;
+	padding: 150px;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+	font-size: 24px
+}
+#banner h1{
+	font-family: 'Mali', sans-serif;
+	color: white;
+	font-weight: bolder;
+	font-size: 96px;
+}
+.card{
+	padding: 30px;
+	font-weight: lighter;
+	text-align: center;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+h3{
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+}
+a{
+	color: black;
+}
+#logo{
+	width: 250px;
+}
+.familia{
+	width: 100px
+}
+#footer {
+	padding: 30px;
+	background-color: #4a65db;
+	color: grey;
+	font-size: 25px;
+}
+#footer p {
+	color: white;
+}
+
+#caracteristicas {
+	padding: 35px;
+}
+
+#datafiscal{
+	width: 75px;
+	text-align: right;
+	margin: 20px;
+}
+
+#footer-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.foteli{
+	width: 400px;
+	padding: 30px;
+}
+.card1{
+	padding: 20px;
+	margin: 20px 0px;
+	text-align: center;
+}
+#segundobloque{
+border-bottom: 1px solid rgba(0,0,0,0.2);
+text-align: center;
+}
